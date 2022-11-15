@@ -1,0 +1,49 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;    
+        background-color: rgb(40, 40, 40);
+}
+
+
+    div#container1{
+
+        background-color: rgb(154, 161, 255);
+    width: 350px;
+    height: auto;
+    }   
+    div#container2{
+        background-color: rgb(200, 155, 244);
+        width: 300px;
+    height: auto;
+    }
+    div#container21{
+        width: 150px;
+        height: auto;
+    }
+    div#container3{
+        background-color: rgb(241, 152, 222);
+        width: 300px;
+        height: auto;
+
+    }
+    div#container31{
+        width: 200px;
+        height: auto;
+    }
+    div#container32{
+        width: 200px;
+        height: auto;
+    }
+    div#container33{
+        width: 110px;
+        height: auto;
+    }
+
+div{
+    border: 2px solid;
+    margin: 15px auto 15px auto;
+    }
+
+   
